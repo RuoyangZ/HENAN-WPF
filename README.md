@@ -1,7 +1,5 @@
 # HENAN-WPF GitHub Code Release
 
-Repository: https://github.com/alisjdjgfi/HENAN-WPF
-
 This repository provides the public figure-reproduction scripts for the HENAN-WPF dataset, together with the minimal metadata and figure assets required for reproducibility.
 
 The repository includes:
