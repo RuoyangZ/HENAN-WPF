@@ -1,0 +1,2 @@
+# Preserve the published CSV files byte for byte on all platforms.
+data/HENAN-WPF_public_release/**/*.csv -text

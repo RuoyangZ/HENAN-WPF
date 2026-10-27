@@ -1,0 +1,37 @@
+Public station label,City,Geographical location,Terrain type,ERA5 group,Variables,Relative path
+Neihuang County,Anyang,Neihuang County,Plain,representative_sites,"temperature_2m,precipitation,surface_pressure,wind_speed_10m,wind_direction_100m,wind_speed_100m,wind_gusts_10m",era5_data/representative_sites/Neihuang_County.csv
+Linzhou City,Anyang,Linzhou City,Mountain,all_sites_wind100,"wind_direction_100m,wind_speed_100m",era5_data/all_sites_wind100/Linzhou_City.csv
+Xunxian County,Hebi,Xunxian County,Mountain,all_sites_wind100,"wind_direction_100m,wind_speed_100m",era5_data/all_sites_wind100/Xunxian_County.csv
+Hebi - Qi County,Hebi,Qi County,Mountain,all_sites_wind100,"wind_direction_100m,wind_speed_100m",era5_data/all_sites_wind100/Hebi_Qi_County.csv
+Jiyuan City_1,Jiyuan,Jiyuan City_1,Mountain,representative_sites,"temperature_2m,precipitation,surface_pressure,wind_speed_10m,wind_direction_100m,wind_speed_100m,wind_gusts_10m",era5_data/representative_sites/Jiyuan_City_1.csv
+Jiyuan City_2,Jiyuan,Jiyuan City_2,Mountain,all_sites_wind100,"wind_direction_100m,wind_speed_100m",era5_data/all_sites_wind100/Jiyuan_City_2.csv
+Boai County,Jiaozuo,Boai County,Mountain,all_sites_wind100,"wind_direction_100m,wind_speed_100m",era5_data/all_sites_wind100/Boai_County.csv
+Wenxian County,Jiaozuo,Wenxian County,Plain,all_sites_wind100,"wind_direction_100m,wind_speed_100m",era5_data/all_sites_wind100/Wenxian_County.csv
+Lankao County,Kaifeng,Lankao County,Plain,all_sites_wind100,"wind_direction_100m,wind_speed_100m",era5_data/all_sites_wind100/Lankao_County.csv
+Kaifeng - Qi County,Kaifeng,Qi County,Plain,all_sites_wind100,"wind_direction_100m,wind_speed_100m",era5_data/all_sites_wind100/Kaifeng_Qi_County.csv
+Yiyang County_1,Luoyang,Yiyang County_1,Mountain,all_sites_wind100,"wind_direction_100m,wind_speed_100m",era5_data/all_sites_wind100/Yiyang_County_1.csv
+Yiyang County_2,Luoyang,Yiyang County_2,Mountain,all_sites_wind100,"wind_direction_100m,wind_speed_100m",era5_data/all_sites_wind100/Yiyang_County_2.csv
+Linying County_1,Luohe,Linying County_1,Plain,representative_sites,"temperature_2m,precipitation,surface_pressure,wind_speed_10m,wind_direction_100m,wind_speed_100m,wind_gusts_10m",era5_data/representative_sites/Linying_County_1.csv
+Linying County_2,Luohe,Linying County_2,Plain,all_sites_wind100,"wind_direction_100m,wind_speed_100m",era5_data/all_sites_wind100/Linying_County_2.csv
+Tongbai County,Nanyang,Tongbai County,Mountain,all_sites_wind100,"wind_direction_100m,wind_speed_100m",era5_data/all_sites_wind100/Tongbai_County.csv
+Tanghe County,Nanyang,Tanghe County,Mountain,all_sites_wind100,"wind_direction_100m,wind_speed_100m",era5_data/all_sites_wind100/Tanghe_County.csv
+Lushan County,Pingdingshan,Lushan County,Plain,all_sites_wind100,"wind_direction_100m,wind_speed_100m",era5_data/all_sites_wind100/Lushan_County.csv
+Ye County,Pingdingshan,Ye County,Mountain,all_sites_wind100,"wind_direction_100m,wind_speed_100m",era5_data/all_sites_wind100/Ye_County.csv
+Nanle County,Puyang,Nanle County,Plain,all_sites_wind100,"wind_direction_100m,wind_speed_100m",era5_data/all_sites_wind100/Nanle_County.csv
+Qingfeng County,Puyang,Qingfeng County,Plain,all_sites_wind100,"wind_direction_100m,wind_speed_100m",era5_data/all_sites_wind100/Qingfeng_County.csv
+Lushi County,Sanmenxia,Lushi County,Mountain,representative_sites,"temperature_2m,precipitation,surface_pressure,wind_speed_10m,wind_direction_100m,wind_speed_100m,wind_gusts_10m",era5_data/representative_sites/Lushi_County.csv
+Lingbao City,Sanmenxia,Lingbao City,Mountain,all_sites_wind100,"wind_direction_100m,wind_speed_100m",era5_data/all_sites_wind100/Lingbao_City.csv
+Yucheng County,Shangqiu,Yucheng County,Plain,representative_sites,"temperature_2m,precipitation,surface_pressure,wind_speed_10m,wind_direction_100m,wind_speed_100m,wind_gusts_10m",era5_data/representative_sites/Yucheng_County.csv
+Sui County,Shangqiu,Sui County,Plain,all_sites_wind100,"wind_direction_100m,wind_speed_100m",era5_data/all_sites_wind100/Sui_County.csv
+Yanjin County,Xinxiang,Yanjin County,Plain,all_sites_wind100,"wind_direction_100m,wind_speed_100m",era5_data/all_sites_wind100/Yanjin_County.csv
+Changyuan City,Xinxiang,Changyuan City,Mountain,all_sites_wind100,"wind_direction_100m,wind_speed_100m",era5_data/all_sites_wind100/Changyuan_City.csv
+Gushi County,Xinyang,Gushi County,Mountain,all_sites_wind100,"wind_direction_100m,wind_speed_100m",era5_data/all_sites_wind100/Gushi_County.csv
+Xin County,Xinyang,Xin County,Mountain,representative_sites,"temperature_2m,precipitation,surface_pressure,wind_speed_10m,wind_direction_100m,wind_speed_100m,wind_gusts_10m",era5_data/representative_sites/Xin_County.csv
+Xiangcheng County,Xuchang,Xiangcheng County,Mountain,all_sites_wind100,"wind_direction_100m,wind_speed_100m",era5_data/all_sites_wind100/Xiangcheng_County.csv
+Yuzhou City,Xuchang,Yuzhou City,Mountain,all_sites_wind100,"wind_direction_100m,wind_speed_100m",era5_data/all_sites_wind100/Yuzhou_City.csv
+Zhongmu County,Zhengzhou,Zhongmu County,Plain,all_sites_wind100,"wind_direction_100m,wind_speed_100m",era5_data/all_sites_wind100/Zhongmu_County.csv
+Xinmi City,Zhengzhou,Xinmi City,Mountain,all_sites_wind100,"wind_direction_100m,wind_speed_100m",era5_data/all_sites_wind100/Xinmi_City.csv
+Luyi County_1,Zhoukou,Luyi County_1,Plain,all_sites_wind100,"wind_direction_100m,wind_speed_100m",era5_data/all_sites_wind100/Luyi_County_1.csv
+Luyi County_2,Zhoukou,Luyi County_2,Plain,all_sites_wind100,"wind_direction_100m,wind_speed_100m",era5_data/all_sites_wind100/Luyi_County_2.csv
+Yicheng District_1,Zhumadian,Yicheng District_1,Mountain,all_sites_wind100,"wind_direction_100m,wind_speed_100m",era5_data/all_sites_wind100/Yicheng_District_1.csv
+Yicheng District_2,Zhumadian,Yicheng District_2,Mountain,all_sites_wind100,"wind_direction_100m,wind_speed_100m",era5_data/all_sites_wind100/Yicheng_District_2.csv
